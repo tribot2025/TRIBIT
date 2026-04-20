@@ -30,7 +30,7 @@ enum Newline {
     CR
 }
 
-namespace OKBit{
+namespace TRIBIT{
     /**
      * WiFi:bit commands.
      */
