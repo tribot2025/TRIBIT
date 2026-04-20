@@ -1,4 +1,4 @@
-namespace OKBit{
+namespace TRIBIT{
     export namespace ADC{
         import _ADC = ADC128S102;
 
