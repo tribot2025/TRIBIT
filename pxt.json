@@ -1,0 +1,29 @@
+{
+    "name": "OKBit",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "ADC128S102.ts",
+        "PCA9555.ts",
+        "PCA9685.ts",
+        "ESP8266_Thinkspeak.ts",
+        "OLED_SSD1306.ts",
+        "PID.ts",
+        "ESP8266_Blynk.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
