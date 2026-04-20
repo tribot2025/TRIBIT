@@ -1,5 +1,5 @@
 // tests go here; this will not be compiled when this package is used as an extension.
-TRIBIT.ADC.AnalogInitial();
+OKBit.ADC.AnalogInitial();
 OKBit.GPIO.GpioInit();
 OKBit.PWM.PWMinit();
 OKBit.OLED.init();
