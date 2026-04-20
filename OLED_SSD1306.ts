@@ -26,7 +26,7 @@ declare interface Math {
     floor(x: number): number;
 }
 
-namespace OKBit {
+namespace TRIBIT {
     export namespace OLED{
         let font: Buffer;
 
