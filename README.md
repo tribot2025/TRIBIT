@@ -1,5 +1,5 @@
 
-> Open this page at [https://nosegit.github.io/okbit/](https://nosegit.github.io/okbit/)
+
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/nosegit/okbit** and import
+* search for **https://github.com/tribot2025/TRIBIT** and import
 
 ## Edit this project
 
